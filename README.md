@@ -8,7 +8,7 @@ Auth is an iOS app that allows users to verify their content online. With recent
 
 I got the idea of creating this app after listening to a [podcast interview with Daniel Ek](https://open.spotify.com/episode/671O5v5twrIfApPuyBdJTv?si=ea4d6b660991441a), CEO of Spotify, talking about the opportunities and challenges of generative AI with Acquired hosts Ben Gilbert and David Rosenthal.
 
-<img width="599" alt="aquired-daniel-ek" src="https://github.com/blankdays/AuthApp/assets/169615361/a55d818c-9126-4867-8ff5-25710bb7d479">
+<img width="599" alt="aquired-daniel-ek" src="https://github.com/blankdays/Veri/media/aquired-daniel-ek.png">
 
 ---
 
@@ -21,7 +21,7 @@ Any person or organization can create an Auth account. To make a post or verify 
 > He creates a new post by clicking the plus button. He is navigated to the create-post view. Here he has the option to add a title and information about the content he wants to verify. He must add at least one link to the post. In this case, the episode is posted on Spotify and YouTube, so he adds the links pointing to the episodes on these platforms. Daniel also adds Emma using her unique Auth hash. He then clicks post.
 >
 
-https://github.com/blankdays/AuthApp/assets/169615361/8dd93cf7-8c8b-40a7-8d9a-6022d2dca830
+https://github.com/blankdays/Veri/assets/169615361/8dd93cf7-8c8b-40a7-8d9a-6022d2dca830
 
 > ### Demo: Verifying a Post on Auth
 >
@@ -32,7 +32,7 @@ https://github.com/blankdays/AuthApp/assets/169615361/8dd93cf7-8c8b-40a7-8d9a-60
 > The post now appears under both Daniel's and Emma's Auth profiles for other users to see.
 >
 
-https://github.com/blankdays/AuthApp/assets/169615361/e1ca5df3-aea6-4a98-bd8c-3c2fa4abcd21
+https://github.com/blankdays/Veri/assets/169615361/e1ca5df3-aea6-4a98-bd8c-3c2fa4abcd21
 
 ---
 
@@ -45,12 +45,12 @@ https://github.com/blankdays/AuthApp/assets/169615361/e1ca5df3-aea6-4a98-bd8c-3c
 > A benefit of the verification method is the ability for more people to get content linked to them on a single platform, similar to how you get tagged in a photo. If you have an interest in a particular person, you may seek their Auth profile to see all the content they have verified across various media and platforms such as YouTube, Spotify, news providers, and more.
 >
 
-https://github.com/blankdays/AuthApp/assets/169615361/ad53f21f-998f-4614-8305-ddc2ec9def71
+https://github.com/blankdays/Veri/assets/169615361/ad53f21f-998f-4614-8305-ddc2ec9def71
 
 ---
 
 The real value of Auth is created through partnerships with other platforms. I am therefore developing a set of APIs that will allow third-party platforms to query whether content on their platform has been verified. For instance, newspapers and editorial offices may use the API to enhance the integrity of the content they share with their readers. At publication, they include the hash of the users whose content they want to verify, and a badge appears on the site of the publication. The verifiers get prompted to verify the publication through the Auth app. Once done, the badge will display the name and image of the verifiers, as well as links to their Auth profiles. The publication will also be shown on their Auth profile like a regular post.
 
-If you have any questions about the project, feel free to contact me via [email](mailto:didriksummer2024@gmail.com).
+If you have any questions about the project, feel free to contact us via [email](mailto:contactn@veri0.com).
 
 ---
