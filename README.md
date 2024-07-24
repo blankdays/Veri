@@ -19,9 +19,9 @@ Any person or organization can create an Auth account. To make a post or verify 
 > Daniel has finished recording a podcast episode with Emma, a local politician who is running for mayor. To showcase to his listeners that Emma was actually present in the episode, Daniel wants to create a post on Auth. He signs into his Auth profile and navigates to the post view. Here he views the posts other users have prompted him to verify, and in the other tab, the posts he has created that are yet to be verified by the linked users.
 >
 > He creates a new post by clicking the plus button. He is navigated to the create-post view. Here he has the option to add a title and information about the content he wants to verify. He must add at least one link to the post. In this case, the episode is posted on Spotify and YouTube, so he adds the links pointing to the episodes on these platforms. Daniel also adds Emma using her unique Auth hash. He then clicks post.
->
 
-![Demo Creating a Post on Auth](media/demo-creating-post.mp4)
+
+https://github.com/user-attachments/assets/897eeaaa-c20e-446b-9903-6c5a740f8783
 
 > ### Demo: Verifying a Post on Auth
 >
@@ -32,7 +32,10 @@ Any person or organization can create an Auth account. To make a post or verify 
 > The post now appears under both Daniel's and Emma's Auth profiles for other users to see.
 >
 
-![Demo Verifying a Post on Auth](media/demo-verifying-post.mp4)
+
+
+https://github.com/user-attachments/assets/2b17bd48-0f17-4e7d-a52b-a9f537ed5bc1
+
 
 ---
 
@@ -45,12 +48,16 @@ Any person or organization can create an Auth account. To make a post or verify 
 > A benefit of the verification method is the ability for more people to get content linked to them on a single platform, similar to how you get tagged in a photo. If you have an interest in a particular person, you may seek their Auth profile to see all the content they have verified across various media and platforms such as YouTube, Spotify, news providers, and more.
 >
 
-![Demo Viewing Verified Content](media/demo-viewing-verified-content.mp4)
+
+
+https://github.com/user-attachments/assets/f70689ca-1433-4a82-9bad-69edc757abf9
+
+
 
 ---
 
 The real value of Auth is created through partnerships with other platforms. I am therefore developing a set of APIs that will allow third-party platforms to query whether content on their platform has been verified. For instance, newspapers and editorial offices may use the API to enhance the integrity of the content they share with their readers. At publication, they include the hash of the users whose content they want to verify, and a badge appears on the site of the publication. The verifiers get prompted to verify the publication through the Auth app. Once done, the badge will display the name and image of the verifiers, as well as links to their Auth profiles. The publication will also be shown on their Auth profile like a regular post.
 
-If you have any questions about the project, feel free to contact us via [email](mailto:contactn@veri0.com).
+If you have any questions about the project, feel free to contact us via [email](mailto:contact@veri0.com).
 
 ---
