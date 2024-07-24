@@ -21,7 +21,7 @@ Any person or organization can create an Auth account. To make a post or verify 
 > He creates a new post by clicking the plus button. He is navigated to the create-post view. Here he has the option to add a title and information about the content he wants to verify. He must add at least one link to the post. In this case, the episode is posted on Spotify and YouTube, so he adds the links pointing to the episodes on these platforms. Daniel also adds Emma using her unique Auth hash. He then clicks post.
 >
 
-![Demo Creating a Post on Auth](media/demo-creating-post.png)
+![Demo Creating a Post on Auth](media/demo-creating-post.mp4)
 
 > ### Demo: Verifying a Post on Auth
 >
@@ -32,7 +32,7 @@ Any person or organization can create an Auth account. To make a post or verify 
 > The post now appears under both Daniel's and Emma's Auth profiles for other users to see.
 >
 
-![Demo Verifying a Post on Auth](media/demo-verifying-post.png)
+![Demo Verifying a Post on Auth](media/demo-verifying-post.mp4)
 
 ---
 
@@ -45,7 +45,7 @@ Any person or organization can create an Auth account. To make a post or verify 
 > A benefit of the verification method is the ability for more people to get content linked to them on a single platform, similar to how you get tagged in a photo. If you have an interest in a particular person, you may seek their Auth profile to see all the content they have verified across various media and platforms such as YouTube, Spotify, news providers, and more.
 >
 
-![Demo Viewing Verified Content](media/demo-viewing-verified-content.png)
+![Demo Viewing Verified Content](media/demo-viewing-verified-content.mp4)
 
 ---
 
